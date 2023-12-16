@@ -1,0 +1,18 @@
+{
+  "header.title": "User Management System",
+  "languages.english": "English",
+  "languages.french": "French",
+  "home.title": "Welcome to this test application",
+  "side-bar.home": "Home",
+  "side-bar.users": "Manage Users",
+  "user.button.create": "+ Add a user",
+  "table.headers.id": "ID",
+  "table.headers.avatar": "Avatar",
+  "table.headers.first_name": "First name",
+  "table.headers.last_name": "Last name",
+  "table.headers.email": "Email address",
+  "table.actions.update": "Update",
+  "table.actions.delete": "Delete",
+  "pagination.next": "Next",
+  "pagination.prev": "Previous"
+}

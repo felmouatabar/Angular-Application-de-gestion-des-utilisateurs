@@ -1,0 +1,18 @@
+{
+  "header.title": "Système de Gestion des Utilisateurs",
+  "languages.english": "Anglais",
+  "languages.french": "Français",
+  "home.title": "Bienvenue dans cette application de test",
+  "side-bar.home": "Accueil",
+  "side-bar.users": "Gérer les Utilisateurs",
+  "user.button.create": "+ Ajouter un utilisateur",
+  "table.headers.id": "ID",
+  "table.headers.avatar": "Avatar",
+  "table.headers.first_name": "Prénom",
+  "table.headers.last_name": "Nom de famille",
+  "table.headers.email": "Adresse e-mail",
+  "table.actions.update": "Mettre à jour",
+  "table.actions.delete": "Supprimer",
+  "pagination.next": "Suivant",
+  "pagination.prev": "Précédent"
+}
